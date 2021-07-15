@@ -42,6 +42,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
+👤 **Shonibare Adewunmi Comfort**
+
+- Github: [@Adewunmi97](https://github.com/Adewunmi97)
+- Twitter: [@_ShonibareC](https://twitter.com/_ShonibareC)
 
 ## 🤝 Contributing
 
